@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Mario/static/css/main.98f9e1e0.css",
+    "main.js": "/Mario/static/js/main.962af11b.js",
+    "static/js/787.db82c46d.chunk.js": "/Mario/static/js/787.db82c46d.chunk.js",
+    "static/media/anh9.png": "/Mario/static/media/anh9.4314fa0bbf763cc46736.png",
+    "static/media/anh4.jpg": "/Mario/static/media/anh4.482c4200b327841cb35e.jpg",
+    "static/media/anh2.jpg": "/Mario/static/media/anh2.40bbaf4354387644c38b.jpg",
+    "static/media/anh6.jpg": "/Mario/static/media/anh6.228548c9cbe0439117c0.jpg",
+    "static/media/anh3.jpg": "/Mario/static/media/anh3.086911c2549b9978805b.jpg",
+    "static/media/anh1.jpg": "/Mario/static/media/anh1.35f90241dcf6e8efe081.jpg",
+    "static/media/anh5.jpg": "/Mario/static/media/anh5.6ec862d48d1e4bb6897f.jpg",
+    "index.html": "/Mario/index.html",
+    "main.98f9e1e0.css.map": "/Mario/static/css/main.98f9e1e0.css.map",
+    "main.962af11b.js.map": "/Mario/static/js/main.962af11b.js.map",
+    "787.db82c46d.chunk.js.map": "/Mario/static/js/787.db82c46d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98f9e1e0.css",
+    "static/js/main.962af11b.js"
+  ]
+}
