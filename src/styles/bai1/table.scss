@@ -1,0 +1,47 @@
+button {
+    cursor: pointer;
+}
+
+.table {
+    text-align: center;
+    margin: auto;
+    border: 1px solid #cccccc;
+    border-collapse: collapse;
+    width: 100%;
+
+    .tab_thead {
+        border: 1px solid #cccccc;
+
+        .text {
+            padding: 8px 0;
+            text-align: center;
+            font-size: 1.5rem;
+            font-weight: bold;
+            border: 1px solid #cccccc;
+
+        }
+    }
+
+    .tab_body {
+        border: 1px solid #cccccc;
+
+        .text {
+            padding: 5px 0;
+            text-align: center;
+            font-size: 1.3rem;
+            width: 10%;
+            border: 1px solid #cccccc;
+        }
+
+        .xoa {
+            font-size: 1.3rem;
+            color: #fff;
+            font-weight: bold;
+            height: 35px;
+            width: 70%;
+            border: 1px solid #ccc;
+            border-radius: 1rem;
+            background-color: #0d0a97;
+        }
+    }
+}

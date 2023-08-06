@@ -1,0 +1,42 @@
+.dieukhien {
+    position: absolute;
+    top: 100px;
+    left: 50.95%;
+    width: 290px;
+
+    .menu {
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 20px;
+        line-height: 25px;
+        width: 150px;
+        color: #000000;
+        margin-top: 300px;
+    }
+
+    .way {
+        position: absolute;
+        margin-top: 10px;
+        height: 250px;
+        width: 70%;
+        overflow-y: auto;
+        margin-left: 45px;
+
+        .way_item {
+            margin-top: 5px;
+            display: flex;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 600;
+            font-size: 18px;
+            line-height: 23px;
+            color: #000;
+            padding-left: 40px;
+
+            .way_item_index {
+                margin-right: 10px;
+            }
+        }
+    }
+}

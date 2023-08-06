@@ -1,0 +1,14 @@
+.bai2 {
+    .layout {
+        border: 1px solid red;
+        width: 1000px;
+        margin: 10px auto;
+        padding: 0;
+
+        .khunganh {
+            margin: 0;
+            padding: 0;
+            border: 1px solid blue;
+        }
+    }
+}
